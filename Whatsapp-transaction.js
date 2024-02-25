@@ -22,7 +22,7 @@ function bayar2(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.250.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 2";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -36,7 +36,7 @@ function bayar3(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.250.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 3";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -50,7 +50,7 @@ function bayar4(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.300.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 4";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -64,7 +64,7 @@ function bayar5(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.225.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 5";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -78,7 +78,7 @@ function bayar6(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.350.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 6";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -92,7 +92,7 @@ function bayar7(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.350.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 7";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -106,7 +106,7 @@ function bayar8(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.250.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 8";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -120,7 +120,7 @@ function bayar9(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.225.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 9";
 
     window.open(whatsappurl,"_blank").focus();
 }
@@ -134,7 +134,7 @@ function bayar10(){
     +"*Nomer telepon                       :* "+ nomer + "%0a"
     +"*Asal Kota                       :* "+ asal + "%0a"
     +"*Jumlah yang harus dibayar   :* Rp.200.000"+ "%0a"
-    +"*jenis kamar                            :* Kamar 1";
+    +"*jenis kamar                            :* Kamar 10";
 
     window.open(whatsappurl,"_blank").focus();
 }
